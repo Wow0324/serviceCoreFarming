@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": "2QdhepnKRTLjjSqPL1PtKNwqrUkoLee5Gqs8bvZhRdMv",
+            "mintProgramIdA": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "mintProgramIdB": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "mintA": "So11111111111111111111111111111111111111112",
+            "mintB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "vaultA": "E2BcoCeJLTa27mAXDA4xwEq3pBUcyH6XXEHYk4KvKYTv",
+            "vaultB": "4d35yC7C8zhCDec7JbPptL9SEb4NUddKHxURgmvD8hfo",
+            "mintDecimalsA": 9,
+            "mintDecimalsB": 6,
+            "ammConfig": {
+                "id": "HfERMT5DRA6C1TAqecrJQFpmkf3wsWTMncqnj3RDg5aw",
+                "index": 2,
+                "protocolFeeRate": 120000,
+                "tradeFeeRate": 500,
+                "tickSpacing": 10,
+                "fundFeeRate": 40000,
+                "fundOwner": "FundHfY8oo8J9KYGyfXFFuQCHe7Z1VBNmsj84eMcdYs4",
+                "description": "Best for stable pairs"
+            }
+        },
+        {
+            "id": "3NeUgARDmFgnKtkJLqUcEUNCfknFCcGsFfMJCtx6bAgx",
+            "mintProgramIdA": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "mintProgramIdB": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "mintA": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "mintB": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "vaultA": "LzqskDmQeqb3WtQHA3aLCoQrUyNNEKodRD3GMvsdRLe",
+            "vaultB": "2yPyVxqSjvJ6wBF9R1QR6bm8hTHrR12JCLEDMhnAhaxq",
+            "mintDecimalsA": 6,
+            "mintDecimalsB": 6,
+            "ammConfig": {
+                "id": "4BLNHtVe942GSs4teSZqGX24xwKNkqU7bGgNn3iUiUpw",
+                "index": 0,
+                "protocolFeeRate": 120000,
+                "tradeFeeRate": 100,
+                "tickSpacing": 10,
+                "fundFeeRate": 40000,
+                "fundOwner": "FundHfY8oo8J9KYGyfXFFuQCHe7Z1VBNmsj84eMcdYs4",
+                "description": "Best for very stable pairs"
+            }
+        },
+        {
+            "id": "61R1ndXxvsWXXkWSyNkCxnzwd3zUNB8Q2ibmkiLPC8ht",
+            "mintProgramIdA": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "mintProgramIdB": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "mintA": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+            "mintB": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "vaultA": "EtjUEdstCK856io1ZNoGs9aamsjBJaSm6rmNYz5uTKqv",
+            "vaultB": "JBGAcAQP59HrqWsvUF9pXyQjfSpL7ivH3uEt95t7KahY",
+            "mintDecimalsA": 6,
+            "mintDecimalsB": 6,
+            "ammConfig": {
+                "id": "E64NGkDLLCdQ2yFNPcavaKptrEgmiQaNykUuLC1Qgwyp",
+                "index": 1,
+                "protocolFeeRate": 120000,
+                "tradeFeeRate": 2500,
+                "tickSpacing": 60,
+                "fundFeeRate": 40000,
+                "fundOwner": "FundHfY8oo8J9KYGyfXFFuQCHe7Z1VBNmsj84eMcdYs4",
+                "description": "Best for most pairs"
+            }
+        },
+        {
+            "id": "Enfoa5Xdtirwa46xxa5LUVcQWe7EUb2pGzTjfvU7EBS1",
+            "mintProgramIdA": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "mintProgramIdB": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "mintA": "So11111111111111111111111111111111111111112",
+            "mintB": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+            "vaultA": "8R7h2i6br7zPZiTLtQTGgkNMGXY5tTrvEuFr9K246Kq",
+            "vaultB": "J9GDSMLWMSyRQP3RGdKjXBJjTf77TAJqBrF7QmqyzekT",
+            "mintDecimalsA": 9,
+            "mintDecimalsB": 6,
+            "ammConfig": {
+                "id": "E64NGkDLLCdQ2yFNPcavaKptrEgmiQaNykUuLC1Qgwyp",
+                "index": 1,
+                "protocolFeeRate": 120000,
+                "tradeFeeRate": 2500,
+                "tickSpacing": 60,
+                "fundFeeRate": 40000,
+                "fundOwner": "FundHfY8oo8J9KYGyfXFFuQCHe7Z1VBNmsj84eMcdYs4",
+                "description": "Best for most pairs"
+            }
+        }
+    ]
+}

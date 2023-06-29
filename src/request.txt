@@ -1,0 +1,84 @@
+
+
+
+request is follow:
+http://localhost:3000/operate_platform
+
+platform: testnetftmscan,PancakeSwap,BiSwap,Orca,Raydium,SushiSwap,Sun.io,TradeJoe,Pangolin,VectorFinance,SpookySwap,Beethonven,VVS Finance,Single Finance,Wingriders,MinSwap,Pact
+
+json format raw post
+request1
+{
+  "platform": "testnetftmscan",
+  "pair": "CAKE-USDT",
+  "method": "statusGet",
+  "pool": "1",
+  "farm": "1",
+   "address1": "0x7ef5091E44063604c67d5a5a2e4b2f265716c29d",
+   "address2": "0x46f6c6083Eb4529C237834B600a52b948A3468bF"
+}
+
+{
+  "platform": "PancakeSwap",
+  "pair": "CAKE-USDT",
+  "method": "statusGet",
+  "pool": "1",
+  "farm": "1",
+   "address1": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+   "address2": "0x55d398326f99059ff775485246999027b3197955"
+}
+
+
+request2
+{
+  "platform": "testnetftmscan",
+  "pair": "CAKE-USDT",
+  "method": "liquidityAdd",
+  "pool": "1",
+  "farm": "0",
+   "address1": "0x7ef5091E44063604c67d5a5a2e4b2f265716c29d",
+   "address2": "0x46f6c6083Eb4529C237834B600a52b948A3468bF",
+   "amount1": "3",
+   "amount2": "10"
+}
+request3
+{
+  "platform": "testnetftmscan",
+  "pair": "CAKE-USDT",
+  "method": "farmingDeposit",
+  "pool": "1",
+  "farm": "0",
+   "address1": "0x7ef5091E44063604c67d5a5a2e4b2f265716c29d",
+   "address2": "0x46f6c6083Eb4529C237834B600a52b948A3468bF",
+   "liquidity": "3"
+}
+request4
+{
+  "platform": "testnetftmscan",
+  "pair": "CAKE-USDT",
+  "method": "farmingHarvest",
+  "pool": "1",
+  "farm": "0"
+}
+request5
+{
+  "platform": "testnetftmscan",
+  "pair": "CAKE-USDT",
+  "method": "farmingWithdraw",
+  "pool": "1",
+  "farm": "0",
+   "address1": "0x7ef5091E44063604c67d5a5a2e4b2f265716c29d",
+   "address2": "0x46f6c6083Eb4529C237834B600a52b948A3468bF",
+   "liquidity": "3"
+}
+request6
+{
+  "platform": "testnetftmscan",
+  "pair": "CAKE-USDT",
+  "method": "liquidityRemove",
+  "pool": "1",
+  "farm": "0",
+   "address1": "0x7ef5091E44063604c67d5a5a2e4b2f265716c29d",
+   "address2": "0x46f6c6083Eb4529C237834B600a52b948A3468bF",
+   "liquidity": "3"
+}
